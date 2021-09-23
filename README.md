@@ -1,1 +1,1 @@
-This is the readme file of this simple project
+Developed this just to work with git and get the experience
